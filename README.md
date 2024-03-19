@@ -5,6 +5,11 @@ En una primera versión, realicé una demo de interfaz gráfica, en que se repre
 
 A la izquierda, se despliega una sidebar que contiene diferentes opciones a ejecutar en todos los ordenadores de la sala de forma simultánea. 
 
+### Ejecución
+Para ejecutar esta primera version se deberá de tener instalados los modulos necesarios (principalmente PySide2) y ejecutarlo con Python2. El comando sería: 
+
+`python2 mainWindow.py computers.json computers2.json computers3.json`
+
 ### Componentes Principales:
 - PCs: cada PC es representado por la clase PcWidget.
 - Rooms: con la clase RoomWidget, se crea un grid de todos los PC disponibles en dicha sala.
@@ -17,6 +22,11 @@ A la izquierda, se despliega una sidebar que contiene diferentes opciones a ejec
 En la segunda versión, se ha creado una base de datos sobre la que sostener la interfaz gráfica y extraer la información necesaria. Además, de incorporar a la aplicación un sistema de autenticación.
 
 __[Work In Progress]__ : Se ha terminado de implementar la BBDD y conectarla al sistema de autenticación. Ahora quedería modificar los componentes de la _Versión 1_ para aplicar el uso de la BBDD. También, queda por implementar la ventana de Perfil de usuario y la gestión de sesiones. 
+
+### Ejecución
+Para ejecutar esta segunda version se deberá de tener instalados los modulos necesarios (principalmente PySide2) y ejecutarlo con Python2. Con esta ejecución solo se desplegaría el Login y el Register. Aún es necesario pasarle un archivo JSON por la implementación actual del ControlCommandView
+
+`python2 app.py computers.json`
 
 ### Componentes Principales:
 - Schema: en el fichero schema.sql se muestra las consultas usadas para definir las 3 tablas usadas actualmente -> user, computer y access. 

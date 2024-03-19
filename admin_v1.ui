@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1044</width>
+    <height>606</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QStackedWidget" name="stackedWidget">
+    <property name="geometry">
+     <rect>
+      <x>209</x>
+      <y>-1</y>
+      <width>831</width>
+      <height>551</height>
+     </rect>
+    </property>
+    <widget class="QWidget" name="page"/>
+    <widget class="QWidget" name="page_2"/>
+   </widget>
+   <widget class="QWidget" name="">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>9</y>
+      <width>181</width>
+      <height>521</height>
+     </rect>
+    </property>
+    <layout class="QHBoxLayout" name="horizontalLayout">
+     <item>
+      <layout class="QVBoxLayout" name="verticalLayout">
+       <item>
+        <widget class="QLabel" name="label">
+         <property name="text">
+          <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Estados&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <widget class="Line" name="line">
+         <property name="orientation">
+          <enum>Qt::Horizontal</enum>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <widget class="QCommandLinkButton" name="commandLinkButton">
+         <property name="text">
+          <string>Encender Todos</string>
+         </property>
+         <property name="icon">
+          <iconset resource="../gui_practice/resources.qrc">
+           <normaloff>:/icons/icons/icons/control-power.png</normaloff>:/icons/icons/icons/control-power.png</iconset>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <widget class="QCommandLinkButton" name="commandLinkButton_2">
+         <property name="text">
+          <string>Apagar Todos</string>
+         </property>
+         <property name="icon">
+          <iconset resource="../gui_practice/resources.qrc">
+           <normaloff>:/icons/icons/icons/plug-disconnect.png</normaloff>:/icons/icons/icons/plug-disconnect.png</iconset>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <widget class="QCommandLinkButton" name="commandLinkButton_8">
+         <property name="text">
+          <string>Modo Examen</string>
+         </property>
+         <property name="icon">
+          <iconset resource="../gui_practice/resources.qrc">
+           <normaloff>:/icons/icons/icons/application-documents.png</normaloff>:/icons/icons/icons/application-documents.png</iconset>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <widget class="QLabel" name="label_2">
+         <property name="text">
+          <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Comandos&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <widget class="Line" name="line_2">
+         <property name="orientation">
+          <enum>Qt::Horizontal</enum>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <widget class="QCommandLinkButton" name="commandLinkButton_3">
+         <property name="text">
+          <string>Apt Todas</string>
+         </property>
+         <property name="icon">
+          <iconset resource="../gui_practice/resources.qrc">
+           <normaloff>:/icons/icons/icons/drive-upload.png</normaloff>:/icons/icons/icons/drive-upload.png</iconset>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <widget class="QCommandLinkButton" name="commandLinkButton_4">
+         <property name="text">
+          <string>Comando a...</string>
+         </property>
+         <property name="icon">
+          <iconset resource="../gui_practice/resources.qrc">
+           <normaloff>:/icons/icons/icons/keyboard-command.png</normaloff>:/icons/icons/icons/keyboard-command.png</iconset>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <widget class="QLabel" name="label_3">
+         <property name="text">
+          <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p align=&quot;center&quot;&gt;&lt;span style=&quot; font-size:12pt; font-weight:600;&quot;&gt;Transferencia&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <widget class="Line" name="line_3">
+         <property name="orientation">
+          <enum>Qt::Horizontal</enum>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <widget class="QCommandLinkButton" name="commandLinkButton_5">
+         <property name="text">
+          <string>Envía a todas...</string>
+         </property>
+         <property name="icon">
+          <iconset resource="../gui_practice/resources.qrc">
+           <normaloff>:/icons/icons/icons/mail-send.png</normaloff>:/icons/icons/icons/mail-send.png</iconset>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <widget class="QCommandLinkButton" name="commandLinkButton_6">
+         <property name="text">
+          <string>Respalda a todas...</string>
+         </property>
+         <property name="icon">
+          <iconset resource="../gui_practice/resources.qrc">
+           <normaloff>:/icons/icons/icons/application-dock-090.png</normaloff>:/icons/icons/icons/application-dock-090.png</iconset>
+         </property>
+        </widget>
+       </item>
+       <item>
+        <widget class="QCommandLinkButton" name="commandLinkButton_7">
+         <property name="text">
+          <string>Sincroniza</string>
+         </property>
+         <property name="icon">
+          <iconset resource="../gui_practice/resources.qrc">
+           <normaloff>:/icons/icons/icons/task--plus.png</normaloff>:/icons/icons/icons/task--plus.png</iconset>
+         </property>
+        </widget>
+       </item>
+      </layout>
+     </item>
+     <item>
+      <widget class="Line" name="line_4">
+       <property name="orientation">
+        <enum>Qt::Vertical</enum>
+       </property>
+      </widget>
+     </item>
+    </layout>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menubar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1044</width>
+     <height>25</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menuMainWIndow">
+    <property name="title">
+     <string>MainWIndow</string>
+    </property>
+   </widget>
+   <widget class="QMenu" name="menuEdit">
+    <property name="title">
+     <string>Edit</string>
+    </property>
+    <addaction name="separator"/>
+   </widget>
+   <addaction name="menuMainWIndow"/>
+   <addaction name="menuEdit"/>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources>
+  <include location="../gui_practice/resources.qrc"/>
+ </resources>
+ <connections/>
+</ui>

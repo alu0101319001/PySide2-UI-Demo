@@ -1,0 +1,202 @@
+[
+    {
+        "tag_name": "PC_29",
+        "status": "WRN",
+        "location": "Location_4.2",
+        "branch": "Branch_3",
+        "ip": "28.172.67.131",
+        "serial_number": "SN_9475",
+        "last_maintenance_date": "2024-03-19 14:16:44",
+        "last_login_timestamp": "2024-03-19 14:16:44"
+    },
+    {
+        "tag_name": "PC_60",
+        "status": "EXM",
+        "location": "Location_4.5",
+        "branch": "Branch_5",
+        "ip": "216.94.221.68",
+        "serial_number": "SN_3488",
+        "last_maintenance_date": "2024-03-19 14:16:44",
+        "last_login_timestamp": "2024-03-19 14:16:44"
+    },
+    {
+        "tag_name": "PC_25",
+        "status": "MIS",
+        "location": "Location_3.1",
+        "branch": "Branch_5",
+        "ip": "45.144.237.96",
+        "serial_number": "SN_8527",
+        "last_maintenance_date": "2024-03-19 14:16:44",
+        "last_login_timestamp": "2024-03-19 14:16:44"
+    },
+    {
+        "tag_name": "PC_19",
+        "status": "ON",
+        "location": "Location_6.3",
+        "branch": "Branch_2",
+        "ip": "82.225.138.64",
+        "serial_number": "SN_8621",
+        "last_maintenance_date": "2024-03-19 14:16:44",
+        "last_login_timestamp": "2024-03-19 14:16:44"
+    },
+    {
+        "tag_name": "PC_55",
+        "status": "MIS",
+        "location": "Location_6.5",
+        "branch": "Branch_5",
+        "ip": "87.99.139.72",
+        "serial_number": "SN_4285",
+        "last_maintenance_date": "2024-03-19 14:16:44",
+        "last_login_timestamp": "2024-03-19 14:16:44"
+    },
+    {
+        "tag_name": "PC_87",
+        "status": "MIS",
+        "location": "Location_9.1",
+        "branch": "Branch_4",
+        "ip": "186.153.124.158",
+        "serial_number": "SN_8948",
+        "last_maintenance_date": "2024-03-19 14:16:44",
+        "last_login_timestamp": "2024-03-19 14:16:44"
+    },
+    {
+        "tag_name": "PC_28",
+        "status": "WRN",
+        "location": "Location_9.2",
+        "branch": "Branch_1",
+        "ip": "231.88.150.202",
+        "serial_number": "SN_1371",
+        "last_maintenance_date": "2024-03-19 14:16:44",
+        "last_login_timestamp": "2024-03-19 14:16:44"
+    },
+    {
+        "tag_name": "PC_65",
+        "status": "MIS",
+        "location": "Location_3.4",
+        "branch": "Branch_5",
+        "ip": "13.7.193.252",
+        "serial_number": "SN_9307",
+        "last_maintenance_date": "2024-03-19 14:16:44",
+        "last_login_timestamp": "2024-03-19 14:16:44"
+    },
+    {
+        "tag_name": "PC_90",
+        "status": "ON",
+        "location": "Location_5.5",
+        "branch": "Branch_5",
+        "ip": "174.143.252.113",
+        "serial_number": "SN_7946",
+        "last_maintenance_date": "2024-03-19 14:16:44",
+        "last_login_timestamp": "2024-03-19 14:16:44"
+    },
+    {
+        "tag_name": "PC_25",
+        "status": "MIS",
+        "location": "Location_1.4",
+        "branch": "Branch_4",
+        "ip": "143.72.99.19",
+        "serial_number": "SN_5383",
+        "last_maintenance_date": "2024-03-19 14:16:44",
+        "last_login_timestamp": "2024-03-19 14:16:44"
+    },
+    {
+        "tag_name": "PC_19",
+        "status": "WAI",
+        "location": "Location_10.5",
+        "branch": "Branch_1",
+        "ip": "152.224.188.125",
+        "serial_number": "SN_2211",
+        "last_maintenance_date": "2024-03-19 14:16:44",
+        "last_login_timestamp": "2024-03-19 14:16:44"
+    },
+    {
+        "tag_name": "PC_58",
+        "status": "WRN",
+        "location": "Location_9.2",
+        "branch": "Branch_4",
+        "ip": "200.78.165.197",
+        "serial_number": "SN_3980",
+        "last_maintenance_date": "2024-03-19 14:16:44",
+        "last_login_timestamp": "2024-03-19 14:16:44"
+    },
+    {
+        "tag_name": "PC_78",
+        "status": "ON",
+        "location": "Location_6.3",
+        "branch": "Branch_1",
+        "ip": "222.50.122.177",
+        "serial_number": "SN_2215",
+        "last_maintenance_date": "2024-03-19 14:16:44",
+        "last_login_timestamp": "2024-03-19 14:16:44"
+    },
+    {
+        "tag_name": "PC_67",
+        "status": "WAI",
+        "location": "Location_3.1",
+        "branch": "Branch_2",
+        "ip": "135.41.101.7",
+        "serial_number": "SN_1473",
+        "last_maintenance_date": "2024-03-19 14:16:44",
+        "last_login_timestamp": "2024-03-19 14:16:44"
+    },
+    {
+        "tag_name": "PC_47",
+        "status": "WRN",
+        "location": "Location_7.1",
+        "branch": "Branch_4",
+        "ip": "147.255.56.179",
+        "serial_number": "SN_2290",
+        "last_maintenance_date": "2024-03-19 14:16:44",
+        "last_login_timestamp": "2024-03-19 14:16:44"
+    },
+    {
+        "tag_name": "PC_36",
+        "status": "WRN",
+        "location": "Location_4.1",
+        "branch": "Branch_5",
+        "ip": "41.1.87.189",
+        "serial_number": "SN_7826",
+        "last_maintenance_date": "2024-03-19 14:16:44",
+        "last_login_timestamp": "2024-03-19 14:16:44"
+    },
+    {
+        "tag_name": "PC_13",
+        "status": "WAI",
+        "location": "Location_2.2",
+        "branch": "Branch_1",
+        "ip": "16.43.13.238",
+        "serial_number": "SN_4992",
+        "last_maintenance_date": "2024-03-19 14:16:44",
+        "last_login_timestamp": "2024-03-19 14:16:44"
+    },
+    {
+        "tag_name": "PC_78",
+        "status": "WAI",
+        "location": "Location_8.4",
+        "branch": "Branch_5",
+        "ip": "97.1.24.29",
+        "serial_number": "SN_5553",
+        "last_maintenance_date": "2024-03-19 14:16:44",
+        "last_login_timestamp": "2024-03-19 14:16:44"
+    },
+    {
+        "tag_name": "PC_84",
+        "status": "MIS",
+        "location": "Location_10.4",
+        "branch": "Branch_1",
+        "ip": "209.115.46.220",
+        "serial_number": "SN_5450",
+        "last_maintenance_date": "2024-03-19 14:16:44",
+        "last_login_timestamp": "2024-03-19 14:16:44"
+    },
+    {
+        "tag_name": "PC_42",
+        "status": "WAI",
+        "location": "Location_1.5",
+        "branch": "Branch_1",
+        "ip": "135.71.27.248",
+        "serial_number": "SN_4345",
+        "last_maintenance_date": "2024-03-19 14:16:44",
+        "last_login_timestamp": "2024-03-19 14:16:44"
+    }
+]
